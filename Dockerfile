@@ -1,4 +1,4 @@
-FROM hshar/ubuntu
+FROM karans5004/ubuntu
 
 ADD Blob /var/www/html/
 
